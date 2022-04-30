@@ -1,0 +1,6 @@
+	BGCOLOR	= $d020
+	BASIC	= $801
+	BORDERCOLOR	= $d021	; unused
+	SCREENRAM	= $400	; unused
+	set_colors	= $820
+	entry	= $80d	; ?
